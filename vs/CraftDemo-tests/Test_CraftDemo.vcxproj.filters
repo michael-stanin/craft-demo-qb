@@ -21,5 +21,8 @@
     <ClCompile Include="..\..\tests\src\Test_QBCollection.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\tests\src\Test_MSCollection.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

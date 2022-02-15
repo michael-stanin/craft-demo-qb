@@ -24,6 +24,7 @@
   <ItemGroup>
     <ClInclude Include="..\inc\DataGenerator.h" />
     <ClInclude Include="..\inc\IRecordCollection.h" />
+    <ClInclude Include="..\inc\MSCraftDemo.hpp" />
     <ClInclude Include="..\inc\QBCraftDemo.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
